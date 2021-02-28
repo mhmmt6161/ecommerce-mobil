@@ -1,0 +1,3381 @@
+[{
+  "id":0,
+  "name": "Strawberry0",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": true,
+  "discount": 14
+}, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+},
+  {
+    "id":0,
+    "name": "Strawberry0",
+    "image": "images/13.png",
+    "price": "₺50.00",
+    "userLiked": true,
+    "discount": 14
+  }, {
+  "id":1,
+  "name": "Hamburger1",
+  "image": "images/10.png",
+  "price": "₺20.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":2,
+  "name": "Hamburger2",
+  "image": "images/11.png",
+  "price": "₺10.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":3,
+  "name": "Akara3",
+  "image": "images/12.png",
+  "price": "₺40.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":4,
+  "name": "Strawberry4",
+  "image": "images/14.png",
+  "price": "₺30.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":5,
+  "name": "Hamburger5",
+  "image": "images/15.png",
+  "price": "₺70.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":6,
+  "name": "Hamburger6",
+  "image": "images/16.png",
+  "price": "₺80.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":7,
+  "name": "Akara7",
+  "image": "images/17.png",
+  "price": "₺90.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":8,
+  "name": "Strawberry8",
+  "image": "images/10.png",
+  "price": "₺500.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":9,
+  "name": "Strawberry9",
+  "image": "images/9.png",
+  "price": "₺150.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":10,
+  "name": "Strawberry10",
+  "image": "images/10.png",
+  "price": "₺250.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":11,
+  "name": "Akara11",
+  "image": "images/11.png",
+  "price": "₺350.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":12,
+  "name": "Strawberry12",
+  "image": "images/12.png",
+  "price": "₺450.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":13,
+  "name": "Strawberry13",
+  "image": "images/15.png",
+  "price": "₺550.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":14,
+  "name": "Strawberry14",
+  "image": "images/17.png",
+  "price": "₺950.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":15,
+  "name": "Strawberry15",
+  "image": "images/11.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":16,
+  "name": "Strawberry16",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":17,
+  "name": "Strawberry17",
+  "image": "images/13.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":18,
+  "name": "Strawberry18",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":19,
+  "name": "Strawberry19",
+  "image": "images/10.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":20,
+  "name": "Strawberry20",
+  "image": "images/12.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":21,
+  "name": "Strawberry21",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":22,
+  "name": "Strawberry22",
+  "image": "images/15.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}, {
+  "id":23,
+  "name": "Strawberry23",
+  "image": "images/16.png",
+  "price": "₺50.00",
+  "userLiked": false,
+  "discount": 14
+}
+  ]
